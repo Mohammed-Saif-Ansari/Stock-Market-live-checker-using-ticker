@@ -1,3 +1,3 @@
 # Stock-Market-live-checker-using-ticker-symbol
 
-<h1>Enjoy here i have used Alpha Vantage api which free add your api key and use it</h1>
+<h1>Enjoy here. I have used Alpha Vantage API, which is free. Add your API key and use it</h1>
