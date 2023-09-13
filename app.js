@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     searchButton.addEventListener("click", async function () {
         const symbol = companyInput.value.toUpperCase();
-        const apiKey = 'KWSJ03VF1V6L8RC5'; // Your Alpha Vantage API key
+        const apiKey = 'Your Api'; // Your Alpha Vantage API key
         const apiUrl = `https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=${symbol}&interval=1min&apikey=${apiKey}`;
 
         try {
